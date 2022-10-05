@@ -1,0 +1,16 @@
+{
+    "savedNotes":[
+    { "title": "Very Important Note",
+        "text": "Please don't forget to do this",
+        "id": "VeryImportNote0"
+    },
+    { "title": "Reminder to do something",
+        "text": "Please don't forget to do this",
+        "id": "Remindertodosomething1"
+    },
+    { "title": "Disregard this note is something happens",
+        "text": "Please don't forget to do this",
+        "id": "Disregardthisnoteifsomethinghappens2"
+    }
+    ]
+}
